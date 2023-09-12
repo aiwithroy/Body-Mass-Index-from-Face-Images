@@ -22,6 +22,8 @@ Gyms, Fitness Trainers and Fitness Apps can use this as their marketing strategy
 ## HOW TO RUN THE WEB APP
 Just run all the cells of Body-Mass-Index-from-Face-Images.ipynb. This will make your back end ready and also links it to the front end web app hosted on anvil. Web App Link : https://facetobmi.anvil.app/
 
+## Preview of the APP
+![](https://github.com/aiwithroy/Body-Mass-Index-from-Face-Images/blob/master/facetobmi/img/App%20Preview.png)
 ### Presentation Link
 Please Find PPT Here :
 # Face detection and BMI/Age/Sex prediction
