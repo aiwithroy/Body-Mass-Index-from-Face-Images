@@ -30,7 +30,7 @@ The model provides end-to-end capability of detecting faces and predicting the B
 
 The architecture of the model is described as below:
 
-![](./img/model_structure.jpg)
+![](https://github.com/aiwithroy/Body-Mass-Index-from-Face-Images/blob/master/facetobmi/img/model_structure.jpg)
 
 
 ## Face detection
@@ -44,14 +44,15 @@ It serves two purposes for this project:
 Prior model training, each image is preprocessed by `MTCNN` to extract faces and crop images to focus on the facial part. The cropped images are saved and used to train the model in later part.
 
 Illustration of face alignment:
-![](./img/mtcnn_face_alignment.jpg)
+![](https://github.com/aiwithroy/Body-Mass-Index-from-Face-Images/blob/master/facetobmi/img/mtcnn_face_alignment.jpg)
 
 ### 2) enable prediction for multiple persons in the same image.
 
 In inference phase, faces will be detected from the input image. For each face, it will go through the same preprocssing and make the predictions.
 
 Illustration of ability to predict for multiple faces:
-![](./img/detect_predict_multi_faces.png)
+
+![](https://github.com/aiwithroy/Body-Mass-Index-from-Face-Images/blob/master/facetobmi/img/detect_predict_multi_faces.png)
 
 ## Multi-task prediction
 
