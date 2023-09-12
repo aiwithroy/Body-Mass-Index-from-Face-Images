@@ -24,3 +24,8 @@ Just run all the cells of Body-Mass-Index-from-Face-Images.ipynb. This will make
 
 ### Presentation Link
 Please Find PPT Here :
+
+## Reference
+
+ * MTCNN: [https://github.com/ipazc/mtcnn](https://github.com/ipazc/mtcnn)
+ * VGGFace: [https://github.com/rcmalli/keras-vggface](https://github.com/rcmalli/keras-vggface)
