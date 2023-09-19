@@ -25,7 +25,7 @@ Just run all the cells of Body-Mass-Index-from-Face-Images.ipynb. This will make
 ## Preview of the APP
 ![](https://github.com/aiwithroy/Body-Mass-Index-from-Face-Images/blob/master/facetobmi/img/App%20Preview.png)
 ### Presentation Link
-Please Find PPT Here :
+Please Find PPT Here :https://docs.google.com/presentation/d/1_qucZ1Ur0wbdBEkRjMM1g797PC2oYn3L/edit?usp=sharing&ouid=118170739079174899047&rtpof=true&sd=true
 # Download BMI/Age/Sex prediction Model
 Download the BMI/Age/Sex prediction Model manually : model_vgg16_seqMT.h5 file from
 following Drive Link
