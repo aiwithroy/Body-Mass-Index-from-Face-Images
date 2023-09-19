@@ -26,6 +26,10 @@ Just run all the cells of Body-Mass-Index-from-Face-Images.ipynb. This will make
 ![](https://github.com/aiwithroy/Body-Mass-Index-from-Face-Images/blob/master/facetobmi/img/App%20Preview.png)
 ### Presentation Link
 Please Find PPT Here :
+# Download BMI/Age/Sex prediction Model
+Download the BMI/Age/Sex prediction Model manually : model_vgg16_seqMT.h5 file from
+following Drive Link
+https://drive.google.com/file/d/1zIJTYnSUJ_Z7kMVGzQjfnjWOODMhVNBy/view?usp=sharing
 # Face detection and BMI/Age/Sex prediction
 
 The model provides end-to-end capability of detecting faces and predicting the BMI, Age and Gender for each person.
