@@ -1,0 +1,4 @@
+Download BMI/Age/Sex prediction Model
+
+Download the BMI/Age/Sex prediction Model manually : model_vgg16_seqMT.h5 file from following- 
+Drive Link: https://drive.google.com/file/d/1zIJTYnSUJ_Z7kMVGzQjfnjWOODMhVNBy/view?usp=sharing
